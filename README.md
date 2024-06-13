@@ -1,4 +1,4 @@
-Hello, I am Hang. 
+Hello, I am Han. 
 
 A beginner and eager to learn coding. 
 Currently working in C at Codam Amsterdam.
